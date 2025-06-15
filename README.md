@@ -63,5 +63,6 @@ Este bot facilita la gestión de cumpleaños dentro de un servidor de Discord. L
 
 - Asegúrate de que tu bot tenga los permisos necesarios para enviar mensajes en el canal deseado.
 - La base de datos `birthdays.db` se actualiza automáticamente con cada nuevo registro.
+- Asegúrate de que el bot este solo en tu servidor, ya que fue hecho con el fin de un servidor fijo.
 
 
